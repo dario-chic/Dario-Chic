@@ -1,6 +1,6 @@
 # Welcome to My Profile!
 
-Hi! I'm Dario Chic. I'm a 20 years old Web Developer who codes **incredible digital experiences**. 💻
+Hi! my name is Dario Chic. I'm a 20 years old Web Developer who codes **incredible digital experiences**. 💻
 Know more about me and my work on my [Web Portfolio](http://dariochic.com/).
 
 
