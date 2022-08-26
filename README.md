@@ -7,7 +7,7 @@ Know more about me and my work on my [Web Portfolio](http://dariochic.com/).
 ## Social Networks
 
  - 💻 [Portfolio](https://www.linkedin.com/in/dario-chic-11a22a228/)
- - 📃 [Linkedin](www.linkedin.com/in/dariochic)
+ - 📃 [Linkedin](https://www.linkedin.com/in/dariochic/)
  - 🤖 [GitHub](https://github.com/dario-chic)
  - 📦 [CodePen](https://www.instagram.com/dario_chic/)
  - 🐦 [Twitter](https://twitter.com/dariochic)
