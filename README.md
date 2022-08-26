@@ -9,10 +9,10 @@ Know more about me and my work on my [Web Portfolio](http://dariochic.com/).
  - 💻 [Portfolio](https://www.linkedin.com/in/dario-chic-11a22a228/)
  - 📃 [Linkedin](https://www.linkedin.com/in/dariochic/)
  - 🤖 [GitHub](https://github.com/dario-chic)
- - 📦 [CodePen](https://www.instagram.com/dario_chic/)
+ - 📦 [CodePen](https://codepen.io/dario-chic)
  - 🐦 [Twitter](https://twitter.com/dariochic)
  - 📸 [Instagram](https://www.instagram.com/dario_chic/)
--  🎬 [Youtube](https://www.instagram.com/dario_chic/)
+-  🎬 [Youtube](https://www.youtube.com/channel/UCeHK2wE6oweMl733-4BihDQ)
 
 ## Some Skills
 The following list are some of the hard skills I work with.
