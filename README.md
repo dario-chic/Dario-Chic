@@ -1,13 +1,11 @@
 
-# Hello! I'm Dario Chic
-
-![Banner](https://raw.githubusercontent.com/your-username/your-username/main/banner.webp) <!-- Add the path to your banner image -->
+# Hello! I'm Dario Chic 
 
 <div align="center" style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-  <img src="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="Project Demo" width="600" />
+  <img src="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="Project Demo" width="50" />
 </div>
 
-## About Me
+## About Me 
 
 Mid-Senior developer with over three years of experience in web and mobile development. Highly competent in problem-solving and effective requirements gathering. Strong learning ability and adaptability to new technologies and changing environments. Creative vision that drives me to go beyond task completion, seeking innovative ideas and solutions that generate a positive impact on the projects I work on.  
   
