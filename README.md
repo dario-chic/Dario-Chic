@@ -5,7 +5,7 @@
   <img src="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="Project Demo" width="50" />
 </div>
 <div align="center" style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW55aHR4Y3cxdXpudXJkMmFnMGp2YTZ4b2UyenJnYWh2YXY3MXJ6OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" alt="Project Demo" width="100%" height='300' style='object-fit: cover;' />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW55aHR4Y3cxdXpudXJkMmFnMGp2YTZ4b2UyenJnYWh2YXY3MXJ6OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" alt="Project Demo" style="width: 100%; height: auto; object-fit: contain;" />
 </div>
 
 <div align="center">
