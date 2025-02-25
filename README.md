@@ -4,6 +4,19 @@
 <div align="center" style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   <img src="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="Project Demo" width="50" />
 </div>
+<div align="center" style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW55aHR4Y3cxdXpudXJkMmFnMGp2YTZ4b2UyenJnYWh2YXY3MXJ6OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" alt="Project Demo" width="100%" height='300' style='object-fit: cover;' />
+</div>
+
+<div align="center">
+  <a href="https://your-portfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-61AFEF?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp; <!-- Espacio entre los badges -->
+  <a href="https://www.linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
 
 ## About Me 
 
@@ -27,8 +40,6 @@ Outside of development, I enjoy reading, personal development, staying fit, and 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Responsive Design](https://img.shields.io/badge/Responsive_Design-3DDC84?style=for-the-badge&logo=responsive-design&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white)
 
 ### Mobile Development
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
