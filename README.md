@@ -9,11 +9,11 @@
 </div>
 
 <div align="center">
-  <a href="https://your-portfolio.com">
+  <a href="https://dariochic.dev">
     <img src="https://img.shields.io/badge/Portfolio-61AFEF?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp; <!-- Espacio entre los badges -->
-  <a href="https://www.linkedin.com/in/your-profile">
+  <a href="https://www.linkedin.com/in/dariochic/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
